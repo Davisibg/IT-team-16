@@ -1,0 +1,4 @@
+devops practices involves building, testing, deploying and monitoring.
+which mainly involves development and operations 
+this help bridge the gap between developers and operators
+tools required are: jenkins, ansible, maven, nexus,j-unit
