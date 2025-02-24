@@ -1,0 +1,4 @@
+My name is ibinabo Collins 
+	DevOps combines development and IT operations to improve collaboration, automate workflows, and deliver high-quality software faster.
+	My favorite DevOps tool is AWS because it's amazing how you can create servers from different time zones and run multiple systems at the same time.
+	The Git command i learned is Git Branch: which shows the current git branch you are in.
